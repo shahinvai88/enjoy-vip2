@@ -2,7 +2,7 @@
   "inbounds": [
     {
       "port": 8080,
-      "protocol": "vmess",
+      "protocol": "vless",
       "settings": {
         "clients": [
           {
@@ -16,7 +16,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/ragnar"
+          "path": "/enjoy-vip"
         }
       }
     }
@@ -27,7 +27,7 @@
       "settings": {
         "servers": [
           {
-            "address": "gcp.supremevip.xyz", 
+            "address": "gcp3.noorproxy.xyz", 
             "port": 9720
           }
         ]
